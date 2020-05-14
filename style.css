@@ -1,0 +1,90 @@
+body {
+  background-color: #ffdab3;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+#title {
+  font-size: 3vw;
+  color: #cc6600;
+  font-family: 'Dancing Script', cursive;
+  line-height: 1;
+  font-weight: bold;
+  margin: 5vw 0vw 0vw 0vw; 
+  text-align: center;
+}
+
+#desc {
+  font-family: 'Dancing Script', cursive;
+  font-size: 3vw;
+  color: #ff3300;
+  line-height: 1;
+}
+
+#img-div {
+  background: #cc6600;
+  margin: 5vw 25vw 5vw 25vw; 
+  padding: 10px;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  display:block;
+}
+
+#img-caption {
+  padding: 10px 0px 0px;
+  font-weight: bold;
+  font-size: 2vw;
+  font-family: 'Dancing Script', cursive; 
+}
+
+#tribute-info {
+  font-family: 'Dancing Script', cursive; 
+  font-size: 2vw;
+  font-weight: bold;
+  text-align: left;
+  padding: 0vw 25vw 0vw 25vw; 
+}
+
+.footer p {
+  font-family:'Dancing Script', cursive; 
+  font-size: 2vw;
+  font-weight: bold;
+  color: black;
+}
+
+.footer {
+  padding-top: 5vh; 
+  padding-bottom: 10vh; 
+}
+
+#tribute-link:link, 
+#tribute-link:hover, 
+#tribute-link:visited, 
+#tribute-link:active {
+  color: #cc6600;
+  text-decoration: none;
+  font-family:'Dancing Script', cursive;
+  font-size: 2vw;
+}
+
+
+.footer {
+  padding-top: 5vh; 
+  padding-bottom: 10vh; 
+}
+
+#tribute-link:link, 
+#tribute-link:hover, 
+#tribute-link:visited, 
+#tribute-link:active {
+  color: #cc6600;
+  text-decoration: none;
+  font-family:'Dancing Script', cursive;
+  font-size: 2vw;
+}
